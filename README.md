@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jesu prens
+- 👋 Hi, I’m jesus alberto prens
 - 👀 I’m interested in web dev, mobile app dev and UX/UI design
 - 🌱 I’m currently learning frontend developement
 - 💞️ I’m looking to collaborate on simple web development projects to expand my knowledge in this area
