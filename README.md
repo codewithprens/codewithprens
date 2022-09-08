@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on simple web development projects to expand my knowledge in this area
 - 📫 How to reach me;
 - prensdesing@gmail.com
-- https://twitter.com/jesu_prens
+- https://twitter.com/albert_prens
 - https://www.instagram.com/jesuprens
 
 <!---
